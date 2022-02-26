@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 63,
+    "height" : 46
+  }, {
+    "width" : 125,
+    "height" : 91
+  }, {
+    "width" : 250,
+    "height" : 181
+  }, {
+    "width" : 500,
+    "height" : 362
+  }, {
+    "width" : 1000,
+    "height" : 724
+  }, {
+    "width" : 2000,
+    "height" : 1447
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2000,
+  "@id" : "https://baudbaudy.github.io/IIIFENC/images/Duel_d_honneur",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1447
+}
