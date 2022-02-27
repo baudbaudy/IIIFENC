@@ -1,0 +1,133 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "A secutor ( \"the follower\" in Latin) was specially trained to fight the retiarius, a type of lightly armoured gladiator. A secutor was fighting with a short sword (gladius) and he was protected by a heavy shield (scutum), a helmet, an arm guard (manica) and greaves (ochrea).",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>A <em>secutor</em> ( \"the follower\" in Latin) was specially trained to fight the <em>retiarius</em>, a type of lightly armoured gladiator. A secutor was fighting with a short sword (<em>gladius</em>) and he was protected by a heavy shield (<em>scutum</em>), a helmet, an arm guard (<em>manica</em>) and greaves (<em>ochrea</em>).</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "gladiator",
+      "@type" : "oa:Tag",
+      "chars" : "gladiator"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "secutor",
+      "@type" : "oa:Tag",
+      "chars" : "secutor"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/107333005897986244752",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-27T17:03:09",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645981389535",
+    "dcterms:modified" : "2022-02-27T18:30:36",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://baudbaudy.github.io/IIIFENC/manifests/Baudoin_Davoury_duel_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=967,430,429,890"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M966.51396,429.96749h214.65163v0h214.65163v444.85374v444.85374h-214.65163h-214.65163v-444.85374z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_a1670c9e-3681-47f0-913f-3ac90e40ff35\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://8b66f5d8-0fab-488b-88d1-e2da4eefe489"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The rudis (the \"referee\" in Latin) managed the fight and enforced the rules. He wore a tunic and a stick (rudis) to be able to intervene. The fights were not necessarily to the death and the referee had to stop the fight when a gladiator gave up.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The <em>rudis</em> (the \"referee\" in Latin) managed the fight and enforced the rules. He wore a tunic and a stick (<em>rudis</em>) to be able to intervene. The fights were not necessarily to the death and the referee had to stop the fight when a gladiator gave up.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "referee",
+      "@type" : "oa:Tag",
+      "chars" : "referee"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "rules",
+      "@type" : "oa:Tag",
+      "chars" : "rules"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/107333005897986244752",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-27T17:12:00",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645981920216",
+    "dcterms:modified" : "2022-02-27T18:30:55",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://baudbaudy.github.io/IIIFENC/manifests/Baudoin_Davoury_duel_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=714,159,294,778"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M713.74302,159.14148h146.94513v0h146.94513v389.18395v389.18395h-146.94513h-146.94513v-389.18395z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_0dd057e1-46c2-42d7-bd21-d32cda3bca0c\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"13.57265\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://8b66f5d8-0fab-488b-88d1-e2da4eefe489"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "A retiarius (\"net-man\" in Latin) was a gladiator who fought with equipment styled on that of a fisherman: a weighted net and a three-pointed trident. He was lightly armoured, wearing an arm guard (manica) and a shoulder guard (galerus).&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>A <em>retiarius</em> (\"net-man\" in Latin) was a gladiator who fought with equipment styled on that of a fisherman: a weighted net and a three-pointed trident. He was lightly armoured, wearing an arm guard (<em>manica</em>) and a shoulder guard (<em>galerus</em>).&nbsp;</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "gladiator",
+      "@type" : "oa:Tag",
+      "chars" : "gladiator"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "antiquity",
+      "@type" : "oa:Tag",
+      "chars" : "antiquity"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "retiarius",
+      "@type" : "oa:Tag",
+      "chars" : "retiarius"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/107333005897986244752",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-27T16:52:30",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645980750233",
+    "dcterms:modified" : "2022-02-27T18:30:23",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://baudbaudy.github.io/IIIFENC/manifests/Baudoin_Davoury_duel_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=461,286,252,646"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M460.97208,285.52695h125.88088v0h125.88088v322.98203v322.98203h-125.88088h-125.88088v-322.98203z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_5bdeaf00-4bd2-4166-a56c-685e59646fc2\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"7.02988\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://8b66f5d8-0fab-488b-88d1-e2da4eefe489"
+    } ]
+  } ],
+  "@id" : "https://baudbaudy.github.io/IIIFENC/annotations/8dcbb587e932e51ef4c9cd703e8ae97b.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
