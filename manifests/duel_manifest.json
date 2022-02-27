@@ -2,7 +2,7 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://baudbaudy.github.io/IIIFENC/manifests/duel_manifest.json",
   "@type" : "sc:Manifest",
-  "label" : "Evolution du duel",
+  "label" : "Duel evolution",
   "metadata" : [ ],
   "description" : [ {
     "@value" : "The duel (from the Latin \"duellum\", an old form of \"bellum\" and meaning war) most often designates an armed combat between two individuals and framed by precise rules. Its interest, purpose and form have evolved over the centuries. The duel has passed from a form of spectacle to a judicial resolution, from a hobby to a fight to the death.",
@@ -19,7 +19,7 @@
     "canvases" : [ {
       "@id" : "http://8b66f5d8-0fab-488b-88d1-e2da4eefe489",
       "@type" : "sc:Canvas",
-      "label" : "Duel spectacle",
+      "label" : "Dueling show",
       "height" : 1541,
       "width" : 1600,
       "images" : [ {
@@ -45,7 +45,7 @@
     }, {
       "@id" : "http://04adad2d-cc82-4c1e-9f2b-a5ac94522eea",
       "@type" : "sc:Canvas",
-      "label" : "Duel judiciaire",
+      "label" : "Judicial duel",
       "height" : 963,
       "width" : 1280,
       "images" : [ {
