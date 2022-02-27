@@ -1,0 +1,162 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "If after the Middle Ages duels began to be prohibited, they have not disappeared. The gentlemen continued to fight to save their honor and dueling became a way of life.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>If after the Middle Ages duels began to be prohibited, they have not disappeared. The gentlemen continued to fight to save their honor and dueling became a way of life.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "honor",
+      "@type" : "oa:Tag",
+      "chars" : "honor"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/107333005897986244752",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-27T17:52:57",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645984377640",
+    "dcterms:modified" : "2022-02-27T18:32:20",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://baudbaudy.github.io/IIIFENC/manifests/Baudoin_Davoury_duel_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=508,225,463,412"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M575.94673,285.67165c42.76428,-34.63337 103.09024,-60.42367 163.70853,-60.39286v0v0c60.61829,0.03081 113.42699,24.15722 163.70853,60.39286c50.28154,36.23564 69.82533,91.45175 67.81029,145.80126c-2.01504,54.34951 -25.58892,107.8324 -67.81029,145.80126c-42.22137,37.96886 -103.09024,60.42367 -163.70853,60.39286c-60.61829,-0.03081 -120.98601,-22.54725 -163.70853,-60.39286c-42.72252,-37.84561 -67.79985,-91.02037 -67.81029,-145.80126c-0.01044,-54.78089 25.04601,-111.16789 67.81029,-145.80126z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_1487ad52-749b-4ce2-a3f3-d4cedb5e27c5\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"7.62917\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://09c70307-cfa7-4dc3-a5fb-520a2a8d929d"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The sword continued to be used in duels. However, the gun was also widely used. The person who had to save his honor had the choice of weapons.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The sword continued to be used in duels. However, the gun was also widely used. The person who had to save his honor had the choice of weapons.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "sword",
+      "@type" : "oa:Tag",
+      "chars" : "sword"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "gun",
+      "@type" : "oa:Tag",
+      "chars" : "gun"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/107333005897986244752",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-27T17:54:57",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645984497555",
+    "dcterms:modified" : "2022-02-27T18:32:30",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://baudbaudy.github.io/IIIFENC/manifests/Baudoin_Davoury_duel_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1288,611,81,465"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1287.90861,610.87698h40.4174v0h40.4174v232.41828v232.41828h-40.4174h-40.4174v-232.41828z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_ca97e395-289d-4d32-b13e-0d40e2f6b8fc\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"7.62917\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://09c70307-cfa7-4dc3-a5fb-520a2a8d929d"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Honor duels stopped at first blood. However, this did not prevent deaths.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Honor duels stopped at first blood. However, this did not prevent deaths.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "death",
+      "@type" : "oa:Tag",
+      "chars" : "death"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/107333005897986244752",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-27T17:56:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645984562433",
+    "dcterms:modified" : "2022-02-27T18:33:06",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://baudbaudy.github.io/IIIFENC/manifests/Baudoin_Davoury_duel_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=650,769,226,361"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M649.60105,768.54657h112.89455v0h112.89455v180.28559v180.28559h-112.89455h-112.89455v-180.28559z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_4fc5f2db-635b-45e1-8465-bbb5efc0c76a\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"10.98601\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://09c70307-cfa7-4dc3-a5fb-520a2a8d929d"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The duelists were accompanied by witnesses. They had to help the wounded and make sure the men had fought fair.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The duelists were accompanied by witnesses. They had to help the wounded and make sure the men had fought fair.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "wirnesses",
+      "@type" : "oa:Tag",
+      "chars" : "wirnesses"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "rules",
+      "@type" : "oa:Tag",
+      "chars" : "rules"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/107333005897986244752",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-27T17:59:29",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645984769172",
+    "dcterms:modified" : "2022-02-27T18:32:56",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://baudbaudy.github.io/IIIFENC/manifests/Baudoin_Davoury_duel_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1507,339,394,808"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1506.6116,338.76977h196.81547v0h196.81547v404.07469v404.07469h-196.81547h-196.81547v-404.07469z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_675ce2c1-a151-4088-a6c0-e5c62c073bd4\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"7.62917\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://09c70307-cfa7-4dc3-a5fb-520a2a8d929d"
+    } ]
+  } ],
+  "@id" : "https://baudbaudy.github.io/IIIFENC/annotations/cea32fe357ca3807df639fba35f86ef0.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
