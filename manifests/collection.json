@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://baudbaudy.github.io/IIIFENC/manifests/Baudoin_Davoury_duel_manifest.json",
     "label" : "Duel evolution"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://baudbaudy.github.io/IIIFENC/manifests/Baudoin-Davoury-duel-manifest.json",
+    "label" : "Duel evolution"
   } ]
 }
