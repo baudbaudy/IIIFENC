@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 21,
+    "height" : 15
+  }, {
+    "width" : 42,
+    "height" : 30
+  }, {
+    "width" : 83,
+    "height" : 59
+  }, {
+    "width" : 166,
+    "height" : 118
+  }, {
+    "width" : 332,
+    "height" : 236
+  }, {
+    "width" : 664,
+    "height" : 471
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 664,
+  "@id" : "https://baudbaudy.github.io/IIIFENC/images/beec4c7_2017042245.0.1933481348duel_au_soleil_web",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 471
+}
