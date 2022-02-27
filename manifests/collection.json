@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://baudbaudy.github.io/IIIFENC/manifests/duel_manifest.json",
     "label" : "Evolution du duel"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://baudbaudy.github.io/IIIFENC/manifests/duelmanifest.json",
+    "label" : "Duel evolution"
   } ]
 }
