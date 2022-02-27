@@ -1,0 +1,154 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "A comrade protected the duelist from too dangerous slashing blows.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>A comrade protected the duelist from too dangerous slashing blows.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/107333005897986244752",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T18:13:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645985582540",
+    "dcterms:modified" : "2022-02-27T18:13:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://baudbaudy.github.io/IIIFENC/manifests/Baudoin_Davoury_duel_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=862,237,221,502"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M862.27345,237.40655h110.33527v0h110.33527v250.77455v250.77455h-110.33527h-110.33527v-250.77455z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_c0737980-2bb7-408b-83a9-e7a8ddc402f0\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://fd50c2ea-3ac5-4766-8bbb-4d8b01b6b65a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Duelists fought each other with swords or rapiers.They were protected by a vest, an arm guard and a leather greave.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Duelists fought each other with swords or rapiers.They were protected by a vest, an arm guard and a leather greave.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/107333005897986244752",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T18:10:44",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645985444765",
+    "dcterms:modified" : "2022-02-27T18:10:44",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://baudbaudy.github.io/IIIFENC/manifests/Baudoin_Davoury_duel_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=547,264,160,273"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M547.46327,263.79782h80.17382v0h80.17382v136.72655v136.72655h-80.17382h-80.17382v-136.72655z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_09c0cfd3-899a-4e8b-bc96-5885168e03a8\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://fd50c2ea-3ac5-4766-8bbb-4d8b01b6b65a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "In the 19th, in Europe, Academic fencing or Mensur&nbsp;<span style=\"color: #202122; font-family: sans-serif;\">is the traditional kind of fencing<span style=\"color: #202122; font-family: sans-serif;\">&nbsp;practiced by some student corporations.&nbsp;<span style=\"color: #202122; font-family: sans-serif;\">The duelists were a blade away and weren't allowed to move their legs.&nbsp;Duelists were protected, but it was not uncommon to see students graduating with large facial scars.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>In the 19th, in Europe, Academic fencing or <em>Mensur&nbsp;</em><span style=\"color: #202122; font-family: sans-serif;\">is the traditional kind of fencing</span><span style=\"color: #202122; font-family: sans-serif;\">&nbsp;practiced by some student corporations.&nbsp;</span><span style=\"color: #202122; font-family: sans-serif;\">The duelists were a blade away and weren't allowed to move their legs.&nbsp;Duelists were protected, but it was not uncommon to see students graduating with large facial scars.</span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "mensur",
+      "@type" : "oa:Tag",
+      "chars" : "mensur"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "fencing",
+      "@type" : "oa:Tag",
+      "chars" : "fencing"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "19th",
+      "@type" : "oa:Tag",
+      "chars" : "19th"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/107333005897986244752",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-27T18:05:51",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645985151591",
+    "dcterms:modified" : "2022-02-27T18:33:41",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://baudbaudy.github.io/IIIFENC/manifests/Baudoin_Davoury_duel_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=156,211,366,539"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M156.34095,211.36907h183.03515v0h183.03515v269.57645v269.57645h-183.03515h-183.03515v-269.57645z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_00ddbaf8-05d4-4a4e-8328-0ef384762bed\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"8.95255\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://fd50c2ea-3ac5-4766-8bbb-4d8b01b6b65a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Different student corporations confronted each other in a duel. They differed by the color of their cap.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Different student corporations confronted each other in a duel. They differed by the color of their cap.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "student corporation",
+      "@type" : "oa:Tag",
+      "chars" : "student corporation"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/107333005897986244752",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-27T18:07:21",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645985241465",
+    "dcterms:modified" : "2022-02-27T18:33:24",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://baudbaudy.github.io/IIIFENC/manifests/Baudoin_Davoury_duel_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=613,174,87,57"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M612.92091,174.06678h43.5246v0h43.5246v28.60369v28.60369h-43.5246h-43.5246v-28.60369z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_3bd5d44b-3438-4983-b11c-1ca1b5c68942\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"8.95255\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://fd50c2ea-3ac5-4766-8bbb-4d8b01b6b65a"
+    } ]
+  } ],
+  "@id" : "https://baudbaudy.github.io/IIIFENC/annotations/9324ae110b20d24c7cd44a7bb35f9457.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
