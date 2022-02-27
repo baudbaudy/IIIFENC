@@ -1,0 +1,109 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Ren&eacute; Ribi&egrave;re, a right-wing deputy, demanded a duel to punish Defferre for his insolence. Ren&eacute; Ribi&egrave;re was hit twice and Gaston Defferre stopped the fight, especially since Defferre was to get married the next day.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Ren&eacute; Ribi&egrave;re, a right-wing deputy, demanded a duel to punish Defferre for his insolence. Ren&eacute; Ribi&egrave;re was hit twice and Gaston Defferre stopped the fight, especially since Defferre was to get married the next day.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/107333005897986244752",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T18:24:10",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645986250866",
+    "dcterms:modified" : "2022-02-27T18:24:10",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://baudbaudy.github.io/IIIFENC/manifests/Baudoin_Davoury_duel_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=120,12,394,546"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M513.53427,558.0246h-196.78647v0h-196.78647v-273.08612v-273.08612h196.78647h196.78647v273.08612z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_879296db-623b-460c-bf82-caa1da11f697\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c77ac76e-a4b6-4a91-8552-1cf25fe2267a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Gaston Defferre, Mayor of Marseille and President of the Socialist Group in the National Assembly won the duel.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Gaston Defferre, Mayor of Marseille and President of the Socialist Group in the National Assembly won the duel.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/107333005897986244752",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T18:19:16",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645985956735",
+    "dcterms:modified" : "2022-02-27T18:19:16",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://baudbaudy.github.io/IIIFENC/manifests/Baudoin_Davoury_duel_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=631,72,392,572"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M630.95782,72.07733h195.82337v0h195.82337v286.19772v286.19772h-195.82337h-195.82337v-286.19772z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_a787d165-ea1f-4250-adbe-3a55b0c6251c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c77ac76e-a4b6-4a91-8552-1cf25fe2267a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "In 1967 the last duel of honor took place in France. Two French politicians clashed with the sword&nbsp;after insulting each other in the National Assembly.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>In 1967 the last duel of honor took place in France. Two French politicians clashed with the sword&nbsp;after insulting each other in the National Assembly.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "last duel",
+      "@type" : "oa:Tag",
+      "chars" : "last duel"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/107333005897986244752",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-27T18:15:38",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645985738425",
+    "dcterms:modified" : "2022-02-27T18:33:54",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://baudbaudy.github.io/IIIFENC/manifests/Baudoin_Davoury_duel_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1108,22,395,611"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1108.01582,21.70475h197.47364v0h197.47364v305.45782v305.45782h-197.47364h-197.47364v-305.45782z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_daaa185a-8a71-4c75-a247-dc7999939f63\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"8.88928\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c77ac76e-a4b6-4a91-8552-1cf25fe2267a"
+    } ]
+  } ],
+  "@id" : "https://baudbaudy.github.io/IIIFENC/annotations/ed01d0abaf4fd897201f94e677c9b1e1.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
