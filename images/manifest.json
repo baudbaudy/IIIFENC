@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 1600,
+    "id" : "https://baudbaudy.github.io/IIIFENC/images/Duel_spectacle/canvas/",
+    "label" : {
+      "none" : [ "Duel_spectacle" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://baudbaudy.github.io/IIIFENC/images/Duel_spectacle/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://baudbaudy.github.io/IIIFENC/images/Duel_spectacle/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 50,
+              "height" : 49
+            }, {
+              "width" : 100,
+              "height" : 97
+            }, {
+              "width" : 200,
+              "height" : 193
+            }, {
+              "width" : 400,
+              "height" : 386
+            }, {
+              "width" : 800,
+              "height" : 771
+            }, {
+              "width" : 1600,
+              "height" : 1541
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1600,
+            "@id" : "https://baudbaudy.github.io/IIIFENC/images/Duel_spectacle",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1541
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1600,
+          "id" : "https://baudbaudy.github.io/IIIFENC/images/Duel_spectacle/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1541
+        },
+        "target" : "https://baudbaudy.github.io/IIIFENC/images/Duel_spectacle/canvas/"
+      } ]
+    } ],
+    "height" : 1541
+  }, {
     "width" : 1280,
     "id" : "https://baudbaudy.github.io/IIIFENC/images/Duel_judiciaire/canvas/",
     "label" : {
