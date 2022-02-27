@@ -7,10 +7,6 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "@type" : "sc:Manifest",
-    "@id" : "https://baudbaudy.github.io/IIIFENC/manifests/duel_manifest.json",
-    "label" : "Evolution du duel"
-  }, {
-    "@type" : "sc:Manifest",
     "@id" : "https://baudbaudy.github.io/IIIFENC/manifests/Baudoin_Davoury_duel_manifest.json",
     "label" : "Duel evolution"
   } ]
