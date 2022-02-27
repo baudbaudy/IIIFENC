@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 550,
+    "id" : "https://baudbaudy.github.io/IIIFENC/images/duel-judiciaire-3/canvas/",
+    "label" : {
+      "none" : [ "duel-judiciaire-3" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://baudbaudy.github.io/IIIFENC/images/duel-judiciaire-3/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://baudbaudy.github.io/IIIFENC/images/duel-judiciaire-3/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 18,
+              "height" : 12
+            }, {
+              "width" : 35,
+              "height" : 24
+            }, {
+              "width" : 69,
+              "height" : 48
+            }, {
+              "width" : 138,
+              "height" : 95
+            }, {
+              "width" : 275,
+              "height" : 189
+            }, {
+              "width" : 550,
+              "height" : 378
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 550,
+            "@id" : "https://baudbaudy.github.io/IIIFENC/images/duel-judiciaire-3",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 378
+          } ],
+          "format" : "image/jpeg",
+          "width" : 550,
+          "id" : "https://baudbaudy.github.io/IIIFENC/images/duel-judiciaire-3/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 378
+        },
+        "target" : "https://baudbaudy.github.io/IIIFENC/images/duel-judiciaire-3/canvas/"
+      } ]
+    } ],
+    "height" : 378
+  }, {
     "width" : 2000,
     "id" : "https://baudbaudy.github.io/IIIFENC/images/Duel_d_honneur/canvas/",
     "label" : {
