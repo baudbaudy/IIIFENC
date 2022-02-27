@@ -7,6 +7,63 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "width" : 1200,
+    "id" : "https://baudbaudy.github.io/IIIFENC/images/Duel_la_Mensur/canvas/",
+    "label" : {
+      "none" : [ "Duel_la_Mensur" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://baudbaudy.github.io/IIIFENC/images/Duel_la_Mensur/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://baudbaudy.github.io/IIIFENC/images/Duel_la_Mensur/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 38,
+              "height" : 27
+            }, {
+              "width" : 75,
+              "height" : 54
+            }, {
+              "width" : 150,
+              "height" : 107
+            }, {
+              "width" : 300,
+              "height" : 213
+            }, {
+              "width" : 600,
+              "height" : 425
+            }, {
+              "width" : 1200,
+              "height" : 849
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1200,
+            "@id" : "https://baudbaudy.github.io/IIIFENC/images/Duel_la_Mensur",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 849
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1200,
+          "id" : "https://baudbaudy.github.io/IIIFENC/images/Duel_la_Mensur/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 849
+        },
+        "target" : "https://baudbaudy.github.io/IIIFENC/images/Duel_la_Mensur/canvas/"
+      } ]
+    } ],
+    "height" : 849
+  }, {
+    "width" : 1200,
     "id" : "https://baudbaudy.github.io/IIIFENC/images/Mensur/canvas/",
     "label" : {
       "none" : [ "Mensur" ]
