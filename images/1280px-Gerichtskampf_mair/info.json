@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 40,
+    "height" : 31
+  }, {
+    "width" : 80,
+    "height" : 61
+  }, {
+    "width" : 160,
+    "height" : 121
+  }, {
+    "width" : 320,
+    "height" : 241
+  }, {
+    "width" : 640,
+    "height" : 482
+  }, {
+    "width" : 1280,
+    "height" : 963
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1280,
+  "@id" : "https://baudbaudy.github.io/IIIFENC/images/1280px-Gerichtskampf_mair",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 963
+}
