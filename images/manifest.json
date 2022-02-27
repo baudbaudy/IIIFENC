@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 1280,
+    "id" : "https://baudbaudy.github.io/IIIFENC/images/Duel_judiciaire/canvas/",
+    "label" : {
+      "none" : [ "Duel_judiciaire" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://baudbaudy.github.io/IIIFENC/images/Duel_judiciaire/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://baudbaudy.github.io/IIIFENC/images/Duel_judiciaire/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 40,
+              "height" : 31
+            }, {
+              "width" : 80,
+              "height" : 61
+            }, {
+              "width" : 160,
+              "height" : 121
+            }, {
+              "width" : 320,
+              "height" : 241
+            }, {
+              "width" : 640,
+              "height" : 482
+            }, {
+              "width" : 1280,
+              "height" : 963
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1280,
+            "@id" : "https://baudbaudy.github.io/IIIFENC/images/Duel_judiciaire",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 963
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1280,
+          "id" : "https://baudbaudy.github.io/IIIFENC/images/Duel_judiciaire/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 963
+        },
+        "target" : "https://baudbaudy.github.io/IIIFENC/images/Duel_judiciaire/canvas/"
+      } ]
+    } ],
+    "height" : 963
+  }, {
     "width" : 1500,
     "id" : "https://baudbaudy.github.io/IIIFENC/images/Dernier_duel_en_France/canvas/",
     "label" : {
