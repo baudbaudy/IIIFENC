@@ -3,11 +3,11 @@
   "@id" : "https://baudbaudy.github.io/IIIFENC/manifests/Baudoin-Davoury-duel-manifest.json",
   "@type" : "sc:Manifest",
   "label" : "Duel evolution",
-  "service": {
-    "profile": "http://iiif.io/api/search/0/search",
-    "@id": "https://dev.gdmrdigital.com/search-api/1240244679/107333005897986244752/manifests/search",
-    "@context": "http://iiif.io/api/search/0/context.json"
-},
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1240244679/107333005897986244752/manifests/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ ],
   "description" : [ {
     "@value" : "The duel (from the Latin \"duellum\", an old form of \"bellum\" and meaning war) most often designates an armed combat between two individuals and framed by precise rules. Its interest, purpose and form have evolved over the centuries. The duel has passed from a form of spectacle to a judicial resolution, from a hobby to a fight to the death.",
