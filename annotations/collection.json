@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://baudbaudy.github.io/IIIFENC/annotations/ed01d0abaf4fd897201f94e677c9b1e1.json", "https://baudbaudy.github.io/IIIFENC/annotations/9324ae110b20d24c7cd44a7bb35f9457.json", "https://baudbaudy.github.io/IIIFENC/annotations/cea32fe357ca3807df639fba35f86ef0.json", "https://baudbaudy.github.io/IIIFENC/annotations/4eca017e9c9ebbb5454aa5b4c958f032.json" ],
+  "otherContent" : [ "https://baudbaudy.github.io/IIIFENC/annotations/ed01d0abaf4fd897201f94e677c9b1e1.json", "https://baudbaudy.github.io/IIIFENC/annotations/9324ae110b20d24c7cd44a7bb35f9457.json", "https://baudbaudy.github.io/IIIFENC/annotations/cea32fe357ca3807df639fba35f86ef0.json", "https://baudbaudy.github.io/IIIFENC/annotations/4eca017e9c9ebbb5454aa5b4c958f032.json", "https://baudbaudy.github.io/IIIFENC/annotations/8dcbb587e932e51ef4c9cd703e8ae97b.json" ],
   "@id" : "https://baudbaudy.github.io/IIIFENC/annotations/collection.json",
   "label" : "All annotations loaded in baudbaudy/IIIFENC project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
